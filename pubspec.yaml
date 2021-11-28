@@ -1,0 +1,58 @@
+name: bloodbank_app
+description: Online Blood Bank
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  curved_navigation_bar: ^1.0.1
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.1.4
+  google_sign_in: ^5.2.1
+  flutter_svg: ^0.23.0+1
+  google_fonts: ^2.1.0
+  salomon_bottom_bar: ^3.1.0
+  firebase_database: ^8.1.0
+
+  provider: ^6.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+      - assets/imgs/
+      - assets/icons/
+
+
+
+  fonts:
+     - family: orilla
+       fonts:
+         - asset: assets/fonts/untitled-font-1.ttf
+
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
