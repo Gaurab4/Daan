@@ -4,6 +4,14 @@ Online Blood Bank
 
 ## Getting Started
 
+
+![daan](https://user-images.githubusercontent.com/72376166/144805118-f8d248aa-6212-422d-b925-0a16e93c42e6.png)
+
+
+
+
+
+
 With the rise of population, the demand of every resource increasing drastically and this becomes critical problem when the resource is related to someone's life.
 Every day thousands of people die in hospitals because of not getting sufficient blood when they require it most and sometimes due to their financial conditions they are not able to buy blood bottles. There are so many kind-hearted people who want to donate blood for free of cost to save someone's life but in this case, many hurdles come in between the needy and the selfless person who is trying to help.
 
